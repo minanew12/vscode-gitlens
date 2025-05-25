@@ -39,10 +39,6 @@ You can [try GitLens Pro for free](https://gitkraken.dev/register?product=gitlen
 | [Contributors](#contributors- 'Jump to Contributors')
 | [License](#license 'Jump to License')
 
-# Discover Powerful Workflows
-
-GitLens offers a wide range of features—here are the three most popular workflows that users rely on to boost their productivity:
-
 - [**Interactive Code History**](#interactive-code-history) &mdash; Understanding code in repositories with multiple branches and contributors can be difficult. GitLens provides the context you need with tools like blame, hovers, and file annotations. But it doesn’t stop there—the interactive Commit Graph lets you create branches, rebase, revert, and more, all with powerful search capabilities.
 
 - [**Accelerate PR Reviews**](#accelerate-pr-reviews) &mdash; Reduce context switching and manage all your PRs in one place. Prioritize tasks and identify bottlenecks right in VS Code with Launchpad when you integrate Github or other host providers. Work on multiple branches at once without disrupting your main workspace with Worktrees.
